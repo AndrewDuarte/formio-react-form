@@ -1,6 +1,6 @@
 Sample React Form with Form.io
 ---------------------------------
-This is a starter application that uses React, Bootstrap, Webpack, Gulp, and Form.io to create a powerful Serverless application platform.
+This is a application that uses React, Bootstrap, Webpack, Gulp, and Form.io to create a powerful Serverless application platform.
 
 Installation
 ---------
